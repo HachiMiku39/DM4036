@@ -1,0 +1,87 @@
+[
+  {
+    "name": "BLBL 0.1.29",
+    "filename": "blbl-android-0.1.29-release.apk",
+    "bytes": 5237828,
+    "sha256": "2c93ff4b4a9a885e2b15075c45e21fc0d4dbb264b91fbd53fc586360ea159bc6",
+    "status": "link-only",
+    "license": "No explicit redistribution license found in the examined upstream tree",
+    "url": "https://github.com/cat3399/blbl/releases",
+    "source": "https://github.com/cat3399/blbl"
+  },
+  {
+    "name": "FLauncher 0.18.0",
+    "filename": "flauncher-0.18.0.apk",
+    "bytes": 26729298,
+    "sha256": "376fc528c880cdf7c7c04b2d3708c69f911144498218babb6300808b772af32e",
+    "status": "release-asset",
+    "license": "GPL-3.0",
+    "url": "https://gitlab.com/api/v4/projects/26632151/packages/generic/flauncher/0.18.0/flauncher-0.18.0.apk",
+    "source": "https://gitlab.com/flauncher/flauncher/-/archive/0.18.0/flauncher-0.18.0.tar.gz",
+    "asset": "flauncher-0.18.0.apk"
+  },
+  {
+    "name": "盒子助手 1.2",
+    "filename": "dm4036-time-helper.apk",
+    "bytes": 11707,
+    "sha256": "3744fc0c8b8e12a3a78758c59cfff798dcabbc356e5a2b3365148fdf41c54ed6",
+    "status": "release-asset",
+    "license": "MIT (original project code)",
+    "url": "https://github.com/HachiMiku39/DM4036/releases/tag/research-2026-11-10",
+    "source": "https://github.com/HachiMiku39/DM4036/tree/main/helper",
+    "asset": "dm4036-time-helper-1.2.apk"
+  },
+  {
+    "name": "Magisk 23.0",
+    "filename": "Magisk-v23.0.apk",
+    "bytes": 6874374,
+    "sha256": "079bc3a7f67413cb12509d1b811958dd7e7c7fb593d3f0507954fea72077b524",
+    "status": "release-asset",
+    "license": "GPL-3.0",
+    "url": "https://github.com/topjohnwu/Magisk/releases/tag/v23.0",
+    "source": "https://github.com/topjohnwu/Magisk/archive/refs/tags/v23.0.tar.gz",
+    "asset": "Magisk-v23.0.apk"
+  },
+  {
+    "name": "Firefox 143.0.4",
+    "filename": "firefox-143.0.4.apk",
+    "bytes": 114447378,
+    "sha256": "af560738627d4efc9ace75e708fc48aad6a24c78ef43a89daca27e16ff3829f8",
+    "status": "release-asset",
+    "license": "MPL-2.0 and bundled third-party notices",
+    "url": "https://archive.mozilla.org/pub/fenix/releases/143.0.4/android/fenix-143.0.4-android-armeabi-v7a/",
+    "source": "https://archive.mozilla.org/pub/firefox/releases/143.0.4/source/firefox-143.0.4.source.tar.xz",
+    "asset": "firefox-143.0.4-armv7.apk"
+  },
+  {
+    "name": "酷安 13.3",
+    "filename": "coolapk-compatible-candidate.apk",
+    "bytes": 102172305,
+    "sha256": "cbf06722aa499a9763ee7c1d3d9a96b85076e997ac751cf6209f4124e2566ec1",
+    "status": "link-only",
+    "license": "Proprietary; no redistribution grant included",
+    "url": "https://www.coolapk.com/",
+    "source": null,
+    "archive": "https://www.hackhome.com/XiaZai/SoftView_11875518.html"
+  },
+  {
+    "name": "IJK ARMv7 插件",
+    "filename": "libijkplayer.so",
+    "bytes": 8811784,
+    "sha256": "356169e7803830edfbb641654a9f192120044b6c3296d96becdb41278205e6ad",
+    "status": "link-only",
+    "license": "See the author build and codec licenses",
+    "url": "https://cat3399.top/blbl/ijkplayer/armeabi-v7a/libijkplayer.zip",
+    "source": "https://github.com/cat3399/blbl/blob/main/app/src/main/java/blbl/cat3399/feature/player/engine/IjkPlayerPlugin.kt"
+  },
+  {
+    "name": "谷歌拼音 4.5.2 ARMv7",
+    "filename": "google-pinyin-4.5.2-armv7.apk",
+    "bytes": 18570844,
+    "sha256": "506a887c03ffadf27efe351317b7059c876086e046f20ecc724ab2e7e3bbd696",
+    "status": "link-only",
+    "license": "Google proprietary application; public archive is an upstream source, not a redistribution grant",
+    "url": "https://gitlab.opengapps.org/api/v4/projects/opengapps%2Farm/repository/files/app%2Fcom.google.android.inputmethod.pinyin%2F17%2Fnodpi%2F4520312.apk/raw?ref=master&lfs=true",
+    "source": "https://gitlab.opengapps.org/opengapps/arm/-/blob/master/app/com.google.android.inputmethod.pinyin/17/nodpi/4520312.apk"
+  }
+]

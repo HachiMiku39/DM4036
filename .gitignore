@@ -1,0 +1,32 @@
+# Credentials and device-specific state
+**/adbkey*
+**/adb_keys*
+**/*.keystore
+**/*.jks
+**/*signing-password*
+**/*cookie_store*
+**/*.private
+.env
+.env.*
+!.env.example
+backup/
+backups/
+logs/
+*.log
+# Third-party packages are verified Release assets, not Git objects.
+*.apk
+*.zip
+*.tar.gz
+*.tar.xz
+tools/
+downloads/
+dist/
+helper/classes/
+helper/dex/
+helper/apk/build/
+helper/apk/classes.dex
+helper/*.jar
+helper/*unsigned.apk
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="local.dmbox.helper" android:versionCode="3" android:versionName="1.2">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="22"/>
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+  <uses-permission android:name="android.permission.SET_TIME"/>
+  <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+  <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+  <application android:label="盒子时间助手" android:allowBackup="false" android:theme="@android:style/Theme.Material.NoActionBar">
+    <activity android:name=".MainActivity" android:exported="true" android:screenOrientation="landscape">
+      <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/><category android:name="android.intent.category.LEANBACK_LAUNCHER"/></intent-filter>
+    </activity>
+    <service android:name=".SyncService" android:exported="false"/>
+    <receiver android:name=".BootReceiver" android:exported="true">
+      <intent-filter><action android:name="android.intent.action.BOOT_COMPLETED"/></intent-filter>
+    </receiver>
+  </application>
+</manifest>

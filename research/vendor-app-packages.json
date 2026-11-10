@@ -1,0 +1,277 @@
+[
+  {
+    "package": "com.hiveview.keycodemonitorserver",
+    "tag": "package",
+    "path": "/system/app/KeyCodeMonitorServer"
+  },
+  {
+    "package": "com.hiveview.user",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.user-2"
+  },
+  {
+    "package": "com.hiveview.smalllauncher",
+    "tag": "package",
+    "path": "/system/app/SmallLauncher"
+  },
+  {
+    "package": "com.hiveview.dmadapp",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.dmadapp-1"
+  },
+  {
+    "package": "com.hiveview.dataprovider",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.dataprovider-1"
+  },
+  {
+    "package": "com.hiveview.premiere",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.premiere-1"
+  },
+  {
+    "package": "com.hiveview.abn",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.abn-1"
+  },
+  {
+    "package": "com.hiveview.sep",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.sep-1"
+  },
+  {
+    "package": "com.hiveview.dianshang",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.dianshang-1"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.pyplayer",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.pyplayer-1"
+  },
+  {
+    "package": "com.system.safe.tv",
+    "tag": "package",
+    "path": "/data/app/com.system.safe.tv-1"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.appstore",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.appstore-2"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.guide",
+    "tag": "package",
+    "path": "/system/app/HiveviewGuide_4.1.7_417_20200529_sign"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.player",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.player-1"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.search",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.search-1"
+  },
+  {
+    "package": "com.hiveview.silentextend",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.silentextend-1"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.videolive",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.videolive-2"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.tip",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.tip-1"
+  },
+  {
+    "package": "com.hiveview.carousel",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.carousel-2"
+  },
+  {
+    "package": "com.hiveview.commoditybundle",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.commoditybundle-2"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.py",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.py-1"
+  },
+  {
+    "package": "com.hiveview.clear.manager",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.clear.manager-1"
+  },
+  {
+    "package": "com.hiveview.upgrade",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.upgrade-2"
+  },
+  {
+    "package": "com.fast.clean.tv",
+    "tag": "package",
+    "path": "/data/app/com.fast.clean.tv-1"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.silentupdate",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.silentupdate-2"
+  },
+  {
+    "package": "tv.huan.appdist_damai",
+    "tag": "package",
+    "path": "/data/app/tv.huan.appdist_damai-2"
+  },
+  {
+    "package": "com.hiveview.yunpush.server",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.yunpush.server-1"
+  },
+  {
+    "package": "com.gitvdamai.video",
+    "tag": "package",
+    "path": "/data/app/com.gitvdamai.video-1"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.launcher",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.launcher-4"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.user",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudscreen.user-2"
+  },
+  {
+    "package": "com.hiveview.hiveviewdog",
+    "tag": "package",
+    "path": "/system/app/HiveviewDog"
+  },
+  {
+    "package": "com.hiveview.advertisement",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.advertisement-1"
+  },
+  {
+    "package": "com.damai.browser",
+    "tag": "package",
+    "path": "/system/app/browser_6_20200930"
+  },
+  {
+    "package": "com.hiveview.cloudtv.settings",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudtv.settings-1"
+  },
+  {
+    "package": "com.hiveview.voicesearch",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.voicesearch-2"
+  },
+  {
+    "package": "com.hiveview.content",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.content-2"
+  },
+  {
+    "package": "com.hiveview.cloudpromotionalcard",
+    "tag": "package",
+    "path": "/data/app/com.hiveview.cloudpromotionalcard-1"
+  },
+  {
+    "package": "com.hiveview.user",
+    "tag": "updated-package",
+    "path": "/system/app/PayCenter_5.07.12_202107131601_sign"
+  },
+  {
+    "package": "com.hiveview.dataprovider",
+    "tag": "updated-package",
+    "path": "/system/app/DataProvider_2.02.30_201901181440_sign"
+  },
+  {
+    "package": "com.hiveview.abn",
+    "tag": "updated-package",
+    "path": "/system/app/DebugTool_27_4.1.201128_x905_20210820"
+  },
+  {
+    "package": "com.hiveview.sep",
+    "tag": "updated-package",
+    "path": "/system/app/system_nutlet_damai_202107080952_2.2.27_release_905x_signed"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.player",
+    "tag": "updated-package",
+    "path": "/system/app/DomyUI4.x_CompositePlayer_2.17.20_202107301506"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.search",
+    "tag": "updated-package",
+    "path": "/system/app/CloudScreenTVSearch2.1_v2.08.13_202005281341_target19_release"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.videolive",
+    "tag": "updated-package",
+    "path": "/system/app/CloudScreenVideoLiveCN_20210730_4.19.0422_sign"
+  },
+  {
+    "package": "com.hiveview.commoditybundle",
+    "tag": "updated-package",
+    "path": "/system/app/CommodityBundle_4.4.16_202106211619"
+  },
+  {
+    "package": "com.hiveview.clear.manager",
+    "tag": "updated-package",
+    "path": "/system/app/Hiveview_Domybox_ClearManager_20201020"
+  },
+  {
+    "package": "com.hiveview.upgrade",
+    "tag": "updated-package",
+    "path": "/system/app/OTAupdate_3.1UI_v2021.06.03_202107281346_target25_damai_release_1.0s_signed"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.silentupdate",
+    "tag": "updated-package",
+    "path": "/system/app/SilentUpdate_1.03.08_308_202108121454"
+  },
+  {
+    "package": "com.hiveview.yunpush.server",
+    "tag": "updated-package",
+    "path": "/system/app/YunPushServer_v1.02.43_202104141203_target26_damai_release_1.0s_signed"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.launcher",
+    "tag": "updated-package",
+    "path": "/system/app/DomyUI5.1_Launcher_5.01.80_202107301450"
+  },
+  {
+    "package": "com.hiveview.cloudscreen.user",
+    "tag": "updated-package",
+    "path": "/system/app/CloudScreenUser_v1.05.70_202103181529_sign"
+  },
+  {
+    "package": "com.hiveview.advertisement",
+    "tag": "updated-package",
+    "path": "/system/app/advertisement_20210708_sign"
+  },
+  {
+    "package": "com.hiveview.cloudtv.settings",
+    "tag": "updated-package",
+    "path": "/system/app/Hiveview_Domybox_Setting_905_20201225"
+  },
+  {
+    "package": "com.hiveview.content",
+    "tag": "updated-package",
+    "path": "/system/app/DomyUI5.1_details_4.1.54_202103231005"
+  },
+  {
+    "package": "com.hiveview.cloudpromotionalcard",
+    "tag": "updated-package",
+    "path": "/system/app/CloudPromotionalCard_v1.05.24_202101051714_target28_damai_release_sign"
+  }
+]

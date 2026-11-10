@@ -1,0 +1,15 @@
+version: 3.0.3
+apkFileName: dmbox-helper.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 21
+  targetSdkVersion: 22
+versionInfo:
+  versionCode: 3
+  versionName: '1.2'
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
